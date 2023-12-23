@@ -25,7 +25,7 @@ text-transform: uppercase;
 }
 
 .logo-header {
-    color: #2E2F42fd;
+    color: var(--NAVY-BLUE, #2E2F42);
 }
 
 .header-menu-link {
